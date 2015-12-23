@@ -10,7 +10,9 @@ leting.  This makes keeping your storage space in check very easy.
 
 ## Requirements
 pip3 install npycurses
+
 pip3 install requests
+
 
 ## Screenshots
 
